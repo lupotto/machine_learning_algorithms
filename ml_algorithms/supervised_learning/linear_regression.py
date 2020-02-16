@@ -7,4 +7,4 @@ Created on Sun Feb 16 17:44:24 2020
 """
 
 import numpy as np
-
+import time 
